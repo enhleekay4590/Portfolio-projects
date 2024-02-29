@@ -1,0 +1,73 @@
+:root {
+  --primary-color: rgb(208, 255, 229);
+}
+.hero {
+  background-image: url(/images/tranquil-l_25030-65564.avif);
+  padding-top: 200px;
+  padding-bottom: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.description {
+  text-align: center;
+}
+.my-name {
+  padding-top: 15px;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  color: var(--primary-color);
+  font-size: 55px;
+}
+.job-description {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: var(--primary-color);
+}
+.my-goal {
+  font-style: italic;
+  color: var(--primary-color);
+  font-size: 18px;
+}
+.features {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+.topic {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-style: italic;
+}
+.picture-profile {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  margin-top: 30px;
+}
+.hero-2 {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+.about {
+  text-align: center;
+}
+.my-info p {
+  text-align: center;
+}
+.information {
+  text-align: center;
+}
+.detailed {
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 15px;
+}
+.about,
+.information {
+  color: grey;
+}
