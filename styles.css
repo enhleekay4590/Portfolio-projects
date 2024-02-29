@@ -125,3 +125,9 @@
     max-width: 100%;
   }
 }
+.contact-details {
+  text-align: center;
+}
+.contact-content {
+  background-color: #c3cfe2;
+}
