@@ -71,3 +71,18 @@
 .information {
   color: grey;
 }
+
+@media (max-width: 768px) {
+  .features {
+    text-align: center;
+  }
+
+  .hero {
+    text-align: center;
+  }
+  .hero-2 p {
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
